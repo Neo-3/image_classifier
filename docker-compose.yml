@@ -1,16 +1,16 @@
-version: "3.8"
+version: "3.7"
 
-services: 
-    jupyter-keras:
-        image: gaarv/jupyter-keras
-        hostname: jupyter_keras
-        container_name: jupyter_keras
-        ports: 
-            - "8888:8888"
-        volumes: 
-            - .:/home/jovyan/work
-        command: "start-notebook.sh \
-        --NotebookApp.token=''"
+services:
+  tensorflow-notebook:
+    image: jupyter/tensorflow-notebook
+    hostname: tensorflow_notebook
+    container_name: tensorflow_notebook
+    ports:
+      - "8888:8888"
+    volumes:
+      - .:/home/jovyan/work
+    command: "start-notebook.sh \
+      --NotebookApp.token=''"
 
-volumes: 
-    jupyter-keras: ~
+volumes:
+  tensorflow-notebook: ~
