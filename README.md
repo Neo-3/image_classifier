@@ -65,4 +65,4 @@ E o nosso muito obrigado a todas as [pessoas que já contribuiram](https://githu
 
 ## 📝 Licença
 
-Copyright © 2020-present, [Contribuidores](https://github.com/Neoenergia-3/image-classifier/graphs/contributors). Esse projeto é [MIT](https://github.com/lcbm/dotfiles/blob/master/LICENSE) License.
+Copyright © 2020-present, [Contribuidores](https://github.com/Neoenergia-3/image-classifier/graphs/contributors). Esse projeto é [MIT](https://github.com/Neoenergia-3/image-classifier/blob/master/LICENSE) License.
