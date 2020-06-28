@@ -2,7 +2,7 @@
 
 <p align="center">
   <a target="_blank" rel="noopener noreferrer">
-    <img src="img/medidor.jpg" alt="logo">
+    <img src="./medidor.jpg" alt="logo">
   </a>
 </p>
 </p>
